@@ -2,6 +2,10 @@
     "name": "create-kelaskoding-api",
     "version": "1.0.5",
     "description": "Bun + Drizzle ORM + Express API project generator",
+    "author": {
+        "email": "hendro.steven@gmail.com",
+        "name": "Hendro Steven"
+    },
     "type": "module",
     "bin": {
         "create-kelaskoding-api": "index.js"

@@ -2,6 +2,10 @@
     "name": "{{projectName}}",
     "version": "1.0.0",
     "description": "A Bun + Express + Drizzle ORM template project",
+    "author": {
+        "email": "hendro.steven@gmail.com",
+        "name": "Hendro Steven"
+    },
     "module": "index.ts",
     "type": "module",
     "private": true,
