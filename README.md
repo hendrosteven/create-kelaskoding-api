@@ -1,4 +1,4 @@
-# KelaSkoding API Generator
+# KelasKoding API Generator
 
 This project is a command-line interface (CLI) tool that helps you quickly generate a boilerplate for a Rest API. It sets up a new project with Bun as the JavaScript runtime, Express for building the API, and Drizzle ORM for database interactions.
 
