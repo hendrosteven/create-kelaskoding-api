@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+       "lib": [
+          "es2020",
+          "DOM",
+          "DOM.Iterable"
+       ],
+       "skipLibCheck": true,
+       "useDefineForClassFields": true,
+       "target": "es2020",
+       "module": "esnext",
+       "rootDir": "./src",
+       "moduleResolution": "bundler",
+       "outDir": "./build",
+       "baseUrl": "./src",
+       "paths": {
+           "@/*": ["./*"]
+       },
+
+       /* linting */
+       "strict": true,  
+       "noUnusedLocals": true,
+       "noUnusedParameters": false,
+       "noFallthroughCasesInSwitch": true,
+       "emitDecoratorMetadata": true,
+       "experimentalDecorators": true,
+       "sourceMap": true,
+       
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules", "build"]
+  }

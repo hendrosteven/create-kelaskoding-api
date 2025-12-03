@@ -1,0 +1,24 @@
+{
+    "name": "create-kelaskoding-api",
+    "version": "1.0.5",
+    "description": "Bun + Drizzle ORM + Express API project generator",
+    "type": "module",
+    "bin": {
+        "create-kelaskoding-api": "index.js"
+    },
+    "files": [
+        "index.js",
+        "template/"
+    ],
+    "keywords": [
+        "bun",
+        "express",
+        "template",
+        "generator",
+        "create",
+        "api"
+    ],
+    "devDependencies": {
+        "@types/node": "^24.10.1"
+    }
+}
